@@ -7,5 +7,7 @@
 
 👨‍💻 This project was made for study, and pratice. You can use it for study too or for any other reason :)
 
+📎 This GIT repository does not contain the expo and node folders.
+
 
 👦 Thanky You! God Bleese you.
