@@ -1,4 +1,4 @@
-# REACT-NATIVE-Projects
+# Simple Music Player React-Native
 
 👋 Hi There!
 
